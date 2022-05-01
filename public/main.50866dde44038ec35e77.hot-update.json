@@ -1,0 +1,1 @@
+{"c":["main"],"r":[],"m":["./app/shaders/fragment.glsl","./app/shaders/vertex.glsl","./node_modules/three/build/three.module.js","./node_modules/three/examples/jsm/controls/OrbitControls.js","./node_modules/three/examples/jsm/geometries/TextGeometry.js","./node_modules/three/examples/jsm/loaders/FontLoader.js"]}
